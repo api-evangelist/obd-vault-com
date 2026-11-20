@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OBD Vault provides a mobile app for iPhone and Android that connects to OBD‑II adapters (ELM327) via Bluetooth or Wi‑Fi to read fault codes, live sensor data, and trip history. The app offers free offline diagnostics and optional cloud sync to enable AI assistants via the Model Context Protocol (MCP) for natural‑language explanations of vehicle issues.
+OBD Vault provides a mobile app for iPhone and Android that connects to an OBD‑II adapter (ELM327) to read fault codes, live sensor data and trip history. The app offers free offline diagnostics and an optional paid cloud sync that lets users connect their vehicle data to an AI assistant via the Model Context Protocol (MCP). No account is required for basic features, and the service emphasizes privacy and encrypted connections.
 
-**Areas:** Automotive · Diagnostics · MobileApp · OBD-II · AI
+**Areas:** Company · Automotive · Diagnostics · MobileApp · OBD-II
 
 ## OBD Vault on APIs.io
 
 Everything profiled for OBD Vault is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/obd-vault-com/](https://apis.io/providers/obd-vault-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [OBD Vault API](https://apis.io/apis/obd-vault-com/obd-vault-api/) — OBD Vault provides a mobile app API documented at their website, but no machine‑readable contract was found.
 
 ### Published properties
 
@@ -92,6 +88,7 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://obd-vault.com/)
+- [Support](https://obd-vault.com/support)
 - [Changelog](https://obd-vault.com/changelog)
 - [Security](https://bahdanhal.pl/services)
 - [Terms of service](https://obd-vault.com/terms)
@@ -99,11 +96,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 15.7** — emerging · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 15.1** — emerging · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 69.6 |
+| Discoverability | 60.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 23.8 |
@@ -137,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/obd-vault-com/](https://apis.io/providers/obd-vault-com/).
 
